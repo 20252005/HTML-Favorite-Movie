@@ -1,0 +1,48 @@
+```html
+<!DOCTYPE html>
+<html>
+<head>
+    <title>20th Century Girl</title>
+</head>
+
+<body>
+
+    <h1>20th Century Girl</h1>
+
+    <h2>Kdarama</h2>
+    <p>20th Century Girl is a Korean romantic movie released in 2022.</p>
+
+    <img src="poster.jpg" alt="20th Century Girl Poster" width="300">
+
+    <h2>Plot</h2>
+    <p>
+        The story follows Na Bo-ra, a high school girl who helps her
+        best friend find out more about her crush. Along the way,
+        Bo-ra experiences friendship and first love.
+    </p>
+
+    <h2>Cast</h2>
+    <p>
+        Kim Yoo-jung as Na Bo-ra<br>
+        Byeon Woo-seok as Poong Woon-ho<br>
+        Roh Yoon-seo as Yeon-doo
+    </p>
+
+    <h2>My Review</h2>
+    <p>
+        I like this movie because it is sweet, emotional, and shows
+        the importance of friendship and first love.
+    </p>
+
+    <h2>Links</h2>
+    <a href="https://www.netflix.com/ph-en/title/81472752" target="_blank">
+        Netflix
+    </a>
+    <br>
+    <a href="https://www.imdb.com/title/tt15340724/" target="_blank">
+        IMDb
+    </a>
+
+</body>
+</html>
+```
